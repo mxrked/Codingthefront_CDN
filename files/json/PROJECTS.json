@@ -43,12 +43,13 @@
     "projectCodeLink": "https://github.com/mxrked/floraandfauna",
     "projectDemoLink": "https://fantastic-starburst-b0f940.netlify.app/"
   },
-  { "projectID": "#ID_001",
+  { "projectID": "#ID_005",
     "projectName": "RTSYVisuals",
     "projectDesc": "A photography website dedicated to the work of Rick Dingwall.",
     "projectStart": "11/2021",
     "projectEnd": "01/2022",
     "projectCover": "https://raw.githubusercontent.com/mxrked/codingthefront-revamped_CDN/master/projects/rtsyvisuals/rtsyvisuals-project-cover.webp",
     "projectTechs": ["Sass", "Bootstrap", "ReactJS"],
+    "projectCodeLink": "https://github.com/mxrked/Rick-s-Website",
     "projectDemoLink": "https://rtsyvisuals.com/home"}
 ]
